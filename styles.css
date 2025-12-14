@@ -59,6 +59,11 @@ body {
     background: gray;
 }
 
+.dropdown-item:hover {
+    background-color: #e50914;
+    color: white;
+}
+
 .r-b {
     padding-right: 15px;
 }
