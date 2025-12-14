@@ -11,7 +11,7 @@ This project showcases my ability to:
 
 # Demo
 
-You can view a live demo of the project [https://netflix-home-page.s3.us-east-2.amazonaws.com/index.html](#). 
+You can view a live demo of the project [netflix-home-page-sigma-bay.vercel.app](#). 
 
 # Key Features
 
