@@ -11,7 +11,7 @@ This project showcases my ability to:
 
 # Demo
 
-You can view a live demo of the project [netflix-home-page-sigma-bay.vercel.app](#)
+You can view a live demo of the project [netflix-home-page-o6tkiwnx7-krishnas-projects-fc78dc01.vercel.app](#)
 
 # Key Features
 
